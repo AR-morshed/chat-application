@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "77022359c6094245e1dc74bee975226c"
+build_time: [1560717448, 501278000]
+inputs:
+  "/Users/armanmorshed/Desktop/chat application/Pods/MessageInputBar/Sources/Controls/InputBarButtonItem.swift": [1560700818, 0]
+  "/Users/armanmorshed/Desktop/chat application/Pods/MessageInputBar/Sources/Protocols/InputItem.swift": [1560700818, 0]
+  "/Users/armanmorshed/Desktop/chat application/Pods/MessageInputBar/Sources/Protocols/InputPlugin.swift": [1560700818, 0]
+  "/Users/armanmorshed/Desktop/chat application/Pods/MessageInputBar/Sources/Views/InputStackView.swift": [1560700818, 0]
+  "/Users/armanmorshed/Desktop/chat application/Pods/MessageInputBar/Sources/Views/InputTextView.swift": [1560700818, 0]
+  "/Users/armanmorshed/Desktop/chat application/Pods/MessageInputBar/Sources/MessageInputBar.swift": [1560700818, 0]
+  "/Users/armanmorshed/Desktop/chat application/Pods/MessageInputBar/Sources/Protocols/MessageInputBarDelegate.swift": [1560700818, 0]
+  "/Users/armanmorshed/Desktop/chat application/Pods/MessageInputBar/Sources/Models/NSConstraintLayoutSet.swift": [1560700818, 0]
+  "/Users/armanmorshed/Desktop/chat application/Pods/MessageInputBar/Sources/Extensions/NSMutableAttributedString+Extensions.swift": [1560700818, 0]
+  "/Users/armanmorshed/Desktop/chat application/Pods/MessageInputBar/Sources/Views/SeparatorLine.swift": [1560700818, 0]
+  "/Users/armanmorshed/Desktop/chat application/Pods/MessageInputBar/Sources/Extensions/UIView+Extensions.swift": [1560700818, 0]

@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0AEB485A-2C5E-453B-9E31-D36BE386DC78</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0AEB485A-2C5E-453B-9E31-D36BE386DC78.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582626103.82956195</real>
+			<key>timeStoppedRecording</key>
+			<real>582626125.37233996</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>0AEB485A-2C5E-453B-9E31-D36BE386DC78</string>
+		</dict>
+		<key>0B95DBA6-413F-4B2F-9E29-287CB9F028DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0B95DBA6-413F-4B2F-9E29-287CB9F028DB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582616320.51067102</real>
+			<key>timeStoppedRecording</key>
+			<real>582616338.00116003</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>0B95DBA6-413F-4B2F-9E29-287CB9F028DB</string>
+		</dict>
+		<key>11EF398F-FC98-49E5-A065-FC3C4C7A052C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>11EF398F-FC98-49E5-A065-FC3C4C7A052C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582615599.26808906</real>
+			<key>timeStoppedRecording</key>
+			<real>582615604.22990203</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>11EF398F-FC98-49E5-A065-FC3C4C7A052C</string>
+		</dict>
+		<key>1776C4E7-D60A-4099-BCCF-4822BBF96790</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1776C4E7-D60A-4099-BCCF-4822BBF96790.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582614876.09788001</real>
+			<key>timeStoppedRecording</key>
+			<real>582614896.80724204</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>1776C4E7-D60A-4099-BCCF-4822BBF96790</string>
+		</dict>
+		<key>18B8A114-93F5-4611-BCA6-3D0C1387EECF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>18B8A114-93F5-4611-BCA6-3D0C1387EECF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582621626.54687202</real>
+			<key>timeStoppedRecording</key>
+			<real>582621635.30883205</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>18B8A114-93F5-4611-BCA6-3D0C1387EECF</string>
+		</dict>
+		<key>1A0CE47E-3F21-45C3-9B4D-2160AA8EFCA1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1A0CE47E-3F21-45C3-9B4D-2160AA8EFCA1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582619391.39082694</real>
+			<key>timeStoppedRecording</key>
+			<real>582619413.068174</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>1A0CE47E-3F21-45C3-9B4D-2160AA8EFCA1</string>
+		</dict>
+		<key>30D9CAF4-6FF5-4B36-A441-57BF797304D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>30D9CAF4-6FF5-4B36-A441-57BF797304D7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582620910.34429395</real>
+			<key>timeStoppedRecording</key>
+			<real>582620918.30123997</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>30D9CAF4-6FF5-4B36-A441-57BF797304D7</string>
+		</dict>
+		<key>319FC0A9-A06A-4662-9EE0-96B08661777A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>319FC0A9-A06A-4662-9EE0-96B08661777A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582623281.142905</real>
+			<key>timeStoppedRecording</key>
+			<real>582623289.77525699</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>319FC0A9-A06A-4662-9EE0-96B08661777A</string>
+		</dict>
+		<key>3975826E-3BF6-4F7B-9C58-7DF32A6FB822</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3975826E-3BF6-4F7B-9C58-7DF32A6FB822.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582621169.25897098</real>
+			<key>timeStoppedRecording</key>
+			<real>582621177.07690501</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>3975826E-3BF6-4F7B-9C58-7DF32A6FB822</string>
+		</dict>
+		<key>3AE90A2A-8B42-44C1-A120-24ACFEECC7BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3AE90A2A-8B42-44C1-A120-24ACFEECC7BF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582624833.69580305</real>
+			<key>timeStoppedRecording</key>
+			<real>582624843.76314294</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>3AE90A2A-8B42-44C1-A120-24ACFEECC7BF</string>
+		</dict>
+		<key>3CA200CC-9806-464A-9119-603AB7E69EC3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3CA200CC-9806-464A-9119-603AB7E69EC3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582626438.24486005</real>
+			<key>timeStoppedRecording</key>
+			<real>582626459.41134202</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>3CA200CC-9806-464A-9119-603AB7E69EC3</string>
+		</dict>
+		<key>3F7A4A93-C8C4-4C21-8307-81CDA9852B92</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3F7A4A93-C8C4-4C21-8307-81CDA9852B92.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582619054.66844106</real>
+			<key>timeStoppedRecording</key>
+			<real>582619075.30172896</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>3F7A4A93-C8C4-4C21-8307-81CDA9852B92</string>
+		</dict>
+		<key>3F9AAA3F-C98A-4C88-97F2-2D26A2364914</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3F9AAA3F-C98A-4C88-97F2-2D26A2364914.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582623798.50779998</real>
+			<key>timeStoppedRecording</key>
+			<real>582623808.92718804</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>3F9AAA3F-C98A-4C88-97F2-2D26A2364914</string>
+		</dict>
+		<key>49331745-2095-4AC5-81B3-CF7D4008761D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>49331745-2095-4AC5-81B3-CF7D4008761D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582612687.86627805</real>
+			<key>timeStoppedRecording</key>
+			<real>582612694.61898994</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>49331745-2095-4AC5-81B3-CF7D4008761D</string>
+		</dict>
+		<key>4A178849-5E87-4EE9-864B-7A0972896C92</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4A178849-5E87-4EE9-864B-7A0972896C92.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582618393.37645304</real>
+			<key>timeStoppedRecording</key>
+			<real>582618405.20746601</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>4A178849-5E87-4EE9-864B-7A0972896C92</string>
+		</dict>
+		<key>4AB97137-8F8C-4AB2-8BE1-985509CB1D7D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4AB97137-8F8C-4AB2-8BE1-985509CB1D7D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582623709.25374401</real>
+			<key>timeStoppedRecording</key>
+			<real>582623717.83878195</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>4AB97137-8F8C-4AB2-8BE1-985509CB1D7D</string>
+		</dict>
+		<key>544FDD2A-78CC-445A-864F-44E624FE95D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>544FDD2A-78CC-445A-864F-44E624FE95D7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582612980.77951205</real>
+			<key>timeStoppedRecording</key>
+			<real>582613001.92258501</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>544FDD2A-78CC-445A-864F-44E624FE95D7</string>
+		</dict>
+		<key>60B71EAA-3B8B-4D60-B29F-845FC9C3B6FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>60B71EAA-3B8B-4D60-B29F-845FC9C3B6FB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582620782.43557501</real>
+			<key>timeStoppedRecording</key>
+			<real>582620790.61413097</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>60B71EAA-3B8B-4D60-B29F-845FC9C3B6FB</string>
+		</dict>
+		<key>60D3AA45-B822-4C19-9D9C-49577AF44DB2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>60D3AA45-B822-4C19-9D9C-49577AF44DB2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582617954.66874397</real>
+			<key>timeStoppedRecording</key>
+			<real>582617968.38767099</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>60D3AA45-B822-4C19-9D9C-49577AF44DB2</string>
+		</dict>
+		<key>61D24788-7DDD-430B-A361-1C4CF6506556</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>61D24788-7DDD-430B-A361-1C4CF6506556.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582616595.27336597</real>
+			<key>timeStoppedRecording</key>
+			<real>582616612.88766301</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>61D24788-7DDD-430B-A361-1C4CF6506556</string>
+		</dict>
+		<key>67A084D6-F9E2-458B-9A72-0D6AF4D1653E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67A084D6-F9E2-458B-9A72-0D6AF4D1653E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582626027.24424899</real>
+			<key>timeStoppedRecording</key>
+			<real>582626037.50475001</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>67A084D6-F9E2-458B-9A72-0D6AF4D1653E</string>
+		</dict>
+		<key>6AAE9AB1-5230-4A26-B7C2-D58F88B9CCA4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6AAE9AB1-5230-4A26-B7C2-D58F88B9CCA4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582616063.09594095</real>
+			<key>timeStoppedRecording</key>
+			<real>582616082.32930195</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>6AAE9AB1-5230-4A26-B7C2-D58F88B9CCA4</string>
+		</dict>
+		<key>701159BD-9678-47A6-8B43-3D382DA0C653</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>701159BD-9678-47A6-8B43-3D382DA0C653.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582620808.744573</real>
+			<key>timeStoppedRecording</key>
+			<real>582620821.53776503</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>701159BD-9678-47A6-8B43-3D382DA0C653</string>
+		</dict>
+		<key>7AE1D31A-089D-4A1A-A691-C9E1F3232C44</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7AE1D31A-089D-4A1A-A691-C9E1F3232C44.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582617551.31221604</real>
+			<key>timeStoppedRecording</key>
+			<real>582617576.99986506</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>7AE1D31A-089D-4A1A-A691-C9E1F3232C44</string>
+		</dict>
+		<key>83DCF791-0D9B-45EE-B92E-E55C39466B76</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>83DCF791-0D9B-45EE-B92E-E55C39466B76.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582623323.29003894</real>
+			<key>timeStoppedRecording</key>
+			<real>582623332.278494</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>83DCF791-0D9B-45EE-B92E-E55C39466B76</string>
+		</dict>
+		<key>87E331E9-C5F9-4EBA-9E36-E0C1989CECC4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>87E331E9-C5F9-4EBA-9E36-E0C1989CECC4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582617907.10396302</real>
+			<key>timeStoppedRecording</key>
+			<real>582617917.50916696</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>87E331E9-C5F9-4EBA-9E36-E0C1989CECC4</string>
+		</dict>
+		<key>87F11A71-8805-42BD-9C59-3D8B4AE64E17</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>87F11A71-8805-42BD-9C59-3D8B4AE64E17.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582621665.77893102</real>
+			<key>timeStoppedRecording</key>
+			<real>582621685.37440205</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>87F11A71-8805-42BD-9C59-3D8B4AE64E17</string>
+		</dict>
+		<key>8A5CB336-DA64-4DA9-88B5-983E686F99C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8A5CB336-DA64-4DA9-88B5-983E686F99C2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582618733.397856</real>
+			<key>timeStoppedRecording</key>
+			<real>582618754.58218801</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>8A5CB336-DA64-4DA9-88B5-983E686F99C2</string>
+		</dict>
+		<key>8C2FA71A-5612-4307-BA68-54C3DA2F4DA9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8C2FA71A-5612-4307-BA68-54C3DA2F4DA9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582618441.928689</real>
+			<key>timeStoppedRecording</key>
+			<real>582618465.37294304</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>8C2FA71A-5612-4307-BA68-54C3DA2F4DA9</string>
+		</dict>
+		<key>9757BDD2-F3DF-4D76-A37E-415D70B4222A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9757BDD2-F3DF-4D76-A37E-415D70B4222A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582623621.688954</real>
+			<key>timeStoppedRecording</key>
+			<real>582623634.02723396</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>9757BDD2-F3DF-4D76-A37E-415D70B4222A</string>
+		</dict>
+		<key>A0F4A55A-DE0D-4E14-8820-9B73093EC6E4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A0F4A55A-DE0D-4E14-8820-9B73093EC6E4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582612178.56920004</real>
+			<key>timeStoppedRecording</key>
+			<real>582612225.34124005</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>A0F4A55A-DE0D-4E14-8820-9B73093EC6E4</string>
+		</dict>
+		<key>A2A3B3F2-6A88-4297-880E-02CD719719E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A2A3B3F2-6A88-4297-880E-02CD719719E0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582621543.37749398</real>
+			<key>timeStoppedRecording</key>
+			<real>582621551.39511096</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>A2A3B3F2-6A88-4297-880E-02CD719719E0</string>
+		</dict>
+		<key>A58B2E22-69D5-4B92-8FEA-2AAF774D4249</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A58B2E22-69D5-4B92-8FEA-2AAF774D4249.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582621131.33015895</real>
+			<key>timeStoppedRecording</key>
+			<real>582621139.78977799</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>A58B2E22-69D5-4B92-8FEA-2AAF774D4249</string>
+		</dict>
+		<key>AE6EBBE4-3321-47F7-A9C7-BAF52999E573</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE6EBBE4-3321-47F7-A9C7-BAF52999E573.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582613579.01209104</real>
+			<key>timeStoppedRecording</key>
+			<real>582613599.49581397</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>AE6EBBE4-3321-47F7-A9C7-BAF52999E573</string>
+		</dict>
+		<key>AF24FC66-EA8D-40FE-A8DB-86D04796A926</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AF24FC66-EA8D-40FE-A8DB-86D04796A926.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582620736.283494</real>
+			<key>timeStoppedRecording</key>
+			<real>582620750.312029</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>AF24FC66-EA8D-40FE-A8DB-86D04796A926</string>
+		</dict>
+		<key>C19454F7-DA4F-450E-B366-85BBEEE22CEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C19454F7-DA4F-450E-B366-85BBEEE22CEB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582624924.84629595</real>
+			<key>timeStoppedRecording</key>
+			<real>582624946.76392198</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>C19454F7-DA4F-450E-B366-85BBEEE22CEB</string>
+		</dict>
+		<key>D00067A3-CA7D-4E4F-ABD1-62ED15FEB5C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D00067A3-CA7D-4E4F-ABD1-62ED15FEB5C1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582582024.61186194</real>
+			<key>timeStoppedRecording</key>
+			<real>582582090.32244599</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>D00067A3-CA7D-4E4F-ABD1-62ED15FEB5C1</string>
+		</dict>
+		<key>DEA66891-5F90-481B-B5DB-745343D905DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DEA66891-5F90-481B-B5DB-745343D905DC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582623812.89385796</real>
+			<key>timeStoppedRecording</key>
+			<real>582623824.47894502</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>DEA66891-5F90-481B-B5DB-745343D905DC</string>
+		</dict>
+		<key>E6D9C7DB-EEB8-49D8-8817-05369EE13A8A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E6D9C7DB-EEB8-49D8-8817-05369EE13A8A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582626844.48582995</real>
+			<key>timeStoppedRecording</key>
+			<real>582626865.56334996</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>E6D9C7DB-EEB8-49D8-8817-05369EE13A8A</string>
+		</dict>
+		<key>EB489E02-0257-476E-BBC3-D75C7208AAB4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB489E02-0257-476E-BBC3-D75C7208AAB4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582618026.19295502</real>
+			<key>timeStoppedRecording</key>
+			<real>582618046.80057299</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>EB489E02-0257-476E-BBC3-D75C7208AAB4</string>
+		</dict>
+		<key>F8CA4A54-1505-4290-AA25-D14200986781</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F8CA4A54-1505-4290-AA25-D14200986781.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582621340.32065904</real>
+			<key>timeStoppedRecording</key>
+			<real>582621349.63457096</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>F8CA4A54-1505-4290-AA25-D14200986781</string>
+		</dict>
+		<key>FAEBCBAB-BD8D-491A-970F-0394AC0B7DA2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FAEBCBAB-BD8D-491A-970F-0394AC0B7DA2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582624789.62457597</real>
+			<key>timeStoppedRecording</key>
+			<real>582624808.29068303</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>FAEBCBAB-BD8D-491A-970F-0394AC0B7DA2</string>
+		</dict>
+		<key>FECED599-4ECD-4434-B563-10984E9B8DEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FECED599-4ECD-4434-B563-10984E9B8DEB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582621228.03646898</real>
+			<key>timeStoppedRecording</key>
+			<real>582621237.14018703</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>FECED599-4ECD-4434-B563-10984E9B8DEB</string>
+		</dict>
+		<key>FF061B0C-8513-4317-8BF2-BDC5F5474BEC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FF061B0C-8513-4317-8BF2-BDC5F5474BEC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Chat Application project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Chat Application</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Chat Application</string>
+			<key>timeStartedRecording</key>
+			<real>582619620.69227397</real>
+			<key>timeStoppedRecording</key>
+			<real>582619640.15256095</real>
+			<key>title</key>
+			<string>Build Chat Application</string>
+			<key>uniqueIdentifier</key>
+			<string>FF061B0C-8513-4317-8BF2-BDC5F5474BEC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
